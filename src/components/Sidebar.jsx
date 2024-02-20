@@ -30,7 +30,7 @@ const Sidebar = () => {
       </svg>
     </button>
       <aside
-      className={`navigation fixed top-0 left-0 z-40 w-64 md:pl-4 h-screen pt-[70px] transition-transform ${active?"-translate-x-full":"translate-x-0"} sm:translate-x-0 bg-[#14131a]`}
+      className={`navigation fixed top-0 left-0 z-40 w-64 md:pl-4 h-screen pt-[70px] transition-transform ${active?"translate-x-0":"-translate-x-full"} sm:translate-x-0 bg-[#14131a]`}
     >
       <div className="w-full h-full bg-[#1c1b23] p-4 rounded-lg">
         <div className="navs">
