@@ -11,11 +11,11 @@ import Cheatsheat from './components/Cheatsheat.jsx'
 
 const router = createBrowserRouter(
   createRoutesFromElements(
-    <Route path='/' element={<App/>}>
+    <Route path='/portfolio/' element={<App/>}>
     <Route path=''element={<Home/>} />
-    <Route path='/projects' element={<Projects/>} />
-    <Route path='/games' element={<Games/>} />
-    <Route path='/cheatsheats' element={<Cheatsheat/>} />
+    <Route path='/portfolio/projects' element={<Projects/>} />
+    <Route path='/portfolio/games' element={<Games/>} />
+    <Route path='/portfolio/cheatsheats' element={<Cheatsheat/>} />
   </Route>
   )
 )

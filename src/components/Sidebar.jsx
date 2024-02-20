@@ -35,7 +35,7 @@ const Sidebar = () => {
       <div className="w-full h-full bg-[#1c1b23] p-4 rounded-lg">
         <div className="navs">
           <NavLink
-          to={"/"}
+          to={"/portfolio/"}
             className= {({isActive})=>`flex p-4 mb-1 gap-x-4 items-center cursor-pointer ${isActive?"bg-green-400/45 ":""} hover:bg-green-400/30 group rounded-md`}
           >
             <svg
@@ -56,7 +56,7 @@ const Sidebar = () => {
             <span className="text-white">Home</span>
           </NavLink>
           <NavLink
-          to="/projects"
+          to="/portfolio/projects"
           className= {({isActive})=>`flex p-4 gap-x-4 mb-1 items-center cursor-pointer ${isActive?"bg-green-400/45":"bg-transparent"} hover:bg-green-400/30 group rounded-md`}
           >
             <svg
@@ -77,7 +77,7 @@ const Sidebar = () => {
             <span className="text-white">Projects</span>
           </NavLink>
           <NavLink
-            to="/cheatsheats"
+            to="/portfolio/cheatsheats"
             className= {({isActive})=>`flex p-4 gap-x-4 mb-1 items-center cursor-pointer ${isActive?`bg-green-400/45`:'bg-transparent'} hover:bg-green-400/30 group rounded-md`}
           >
             <svg
@@ -99,7 +99,7 @@ const Sidebar = () => {
             <span className="text-white">Trending</span>
           </NavLink>
           <NavLink
-            to="/games"
+            to="/portfolio/games"
             className= {({isActive})=>`flex p-4 gap-x-4 mb-1 items-center cursor-pointer ${isActive?`bg-green-400/45`:'bg-transparent'} hover:bg-green-400/30 group rounded-md`}
           >
             <svg
