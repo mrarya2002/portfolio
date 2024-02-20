@@ -36,6 +36,7 @@ const Sidebar = () => {
         <div className="navs">
           <NavLink
           to={"/portfolio/"}
+          end
             className= {({isActive})=>`flex p-4 mb-1 gap-x-4 items-center cursor-pointer ${isActive?"bg-green-400/45 ":""} hover:bg-green-400/30 group rounded-md`}
           >
             <svg
