@@ -4,8 +4,8 @@ export const projects = [
         name:"Two good co.",
         description:"gsap HTML CSS JS",
         img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQue9GAYRL2lNwFzl2DATRIk63Bj87_JgO-3w&usqp=CAU",
-        github:"mrarya.github.io",
-        live:"arya.good.comm",
+        github:"https://github.com/mrarya2002/Two-good-co-website",
+        live:"https://mrarya2002.github.io/Two-good-co-website/",
         tech:"html-css"
     },
     {
@@ -13,8 +13,8 @@ export const projects = [
         name:"Sundown web",
         description:"gsap HTML CSS JS",
         img:"https://uploads-ssl.webflow.com/644bc965881cba09e414cd5b/64d3e7b9211401bf7ebd601a_Showcase%2BThumb.jpg",
-        github:"mrarya.github.io",
-        live:"arya.good.comm",
+        github:"https://github.com/mrarya2002/sundown-clone",
+        live:"https://mrarya2002.github.io/sundown-clone/",
         tech:"html-css"
     },
     {
@@ -22,8 +22,8 @@ export const projects = [
         name:"Pinterest",
         description:"HTML CSS JS",
         img:"https://images.ctfassets.net/2pyx8rwuvz6x/3agrFy0rGxd9Vg2eHdKHH/ea15edb209ebd0028b2dda6d64fc93b6/post-107-assets-1-en-us.jpg?fm=webp&q=85",
-        github:"mrarya.github.io",
-        live:"arya.good.comm",
+        github:"https://github.com/mrarya2002/pinterest-js",
+        live:"https://mrarya2002.github.io/pinterest-js/",
         tech:"javascript"
     },
     {
@@ -31,8 +31,8 @@ export const projects = [
         name:"Shopping Cart",
         description:"HTML CSS JS",
         img:"https://cdn.acowebs.com/wp-content/uploads/2019/02/Impact-of-eCommerce-On-Society.png",
-        github:"mrarya.github.io",
-        live:"arya.good.comm",
+        github:"https://github.com/mrarya2002/cart-js",
+        live:"https://mrarya2002.github.io/cart-js/",
         tech:"javascript"
     },
     {
@@ -40,8 +40,8 @@ export const projects = [
         name:"Calculator",
         description:"HTML CSS JS",
         img:"https://res.cloudinary.com/dz209s6jk/image/upload/v1625142745/Screenshots/m1ntyhfni1w9907kypck.jpg",
-        github:"mrarya.github.io",
-        live:"arya.good.comm",
+        github:"https://github.com/mrarya2002/calculator-Js",
+        live:"https://mrarya2002.github.io/calculator-Js/",
         tech:"javascript"
     },
     {
@@ -49,8 +49,8 @@ export const projects = [
         name:"Rest Country Api",
         description:"HTML CSS JS",
         img:"https://res.cloudinary.com/dz209s6jk/image/upload/v1554826345/Challenges/yhq5ihanseyinzwblaw1.jpg",
-        github:"mrarya.github.io",
-        live:"arya.good.comm",
+        github:"https://github.com/mrarya2002/Rest-Country-Api",
+        live:"https://mrarya2002.github.io/Rest-Country-Api/",
         tech:"javascript"
     },
     {
@@ -58,8 +58,8 @@ export const projects = [
         name:"Youtube Player",
         description:"React js",
         img:"https://9to5google.com/wp-content/uploads/sites/4/2022/10/YouTube-Ambient-Mode-cover.jpg?quality=82&strip=all&w=1600",
-        github:"mrarya.github.io",
-        live:"arya.good.comm",
+        github:"https://github.com/mrarya2002/youtube-clone",
+        live:"https://youtube-clone-43ha.vercel.app/",
         tech:"react-js"
     }
 ]
